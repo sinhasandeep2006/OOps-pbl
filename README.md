@@ -13,16 +13,8 @@
 <p align="left">
 		<em>Built with the tools and technologies:</em>
 </p>
-<p align="center">
-```sh
-    C++ 
-```
-```sh
-    Class
-```
-```sh
-    GRAPH 
-```
+<p>
+<em>C++ </em>  <em>Class</em> <em>Graph </em>
 	</p>
 
 <br>
