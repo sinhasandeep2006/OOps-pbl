@@ -159,25 +159,6 @@ Execute the test suite using the following command:
 - [X] **`Task 2`**:<strike> Implement feature two.</strike>
 - [X] **`Task 3`**: <strike>Implement feature three.</strike>
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Here are several ways you can contribute:
-
-- **[Report Issues](https://github.com/sinhasandeep2006/OOps-pbl.git/issues)**: Submit bugs found or log feature requests for the `OOps-pbl.git` project.
-- **[Submit Pull Requests](https://github.com/sinhasandeep2006/OOps-pbl.git/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
-- **[Join the Discussions](https://github.com/sinhasandeep2006/OOps-pbl.git/discussions)**: Share your insights, provide feedback, or ask questions.
-
-<details closed>
-
-<br>
-<p align="left">
-   <a href="https://github.com{/sinhasandeep2006/OOps-pbl.git/}graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=sinhasandeep2006/OOps-pbl.git">
-   </a>
-</p>
-</details>
 
 ---
 
