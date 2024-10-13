@@ -2,14 +2,6 @@
 
 # `OOPS-PBL.GIT`
 
-#### <code>❯ REPLACE-ME</code>
-
-<p align="left">
-	<img src="https://img.shields.io/github/license/sinhasandeep2006/OOps-pbl.git?style=for-the-badge&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/sinhasandeep2006/OOps-pbl.git?style=for-the-badge&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/sinhasandeep2006/OOps-pbl.git?style=for-the-badge&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/sinhasandeep2006/OOps-pbl.git?style=for-the-badge&color=0080ff" alt="repo-language-count">
-</p>
 <p align="left">
 		<em>Built with the tools and technologies:</em>
 </p>
