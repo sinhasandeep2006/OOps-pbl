@@ -157,6 +157,18 @@ Execute the test suite using the following command:
 
 ## 🙌 Acknowledgments
 
-- List any resources, contributors, inspiration, etc. here.
+- Thanks to Our sir (Aman sir) who guided me through learning C++ and object-oriented programming.
+- Special thanks to the creators of the C++ Standard Library and resources like [cplusplus.com](https://www.cplusplus.com/) for providing helpful documentation.
+- A shoutout to the open-source community for sharing valuable examples and tutorials that inspired some features in this project.
 
 ---
+
+## 🕎 Members
+    ```sh
+        Group 7
+- Surbhi Ambarbar 35618002723
+- Sandeep Sinha   35618002723
+- Arsh            35718002723
+- Tanvi Gupta     35818002723
+- Parth Arora     35918002723
+```
