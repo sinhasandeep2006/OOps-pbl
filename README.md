@@ -14,6 +14,7 @@
 		<em>Built with the tools and technologies:</em>
 </p>
 <p align="center">
+<em>C++ </em>  <em>Class</em> <em>Graph </em>
 	</p>
 
 <br>
