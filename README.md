@@ -84,21 +84,22 @@
 
 ## 🧩 Modules
 
-<details closed><summary>.</summary>
+<details closed><summary>ATM.cpp</summary>
 
-| File | Summary |
-| --- | --- |
-| [ATM.cpp](https://github.com/sinhasandeep2006/OOps-pbl.git/blob/main/ATM.cpp) | <code>❯ REPLACE-ME</code> |
+| File        | Summary                                                                 |
+| ----------- | ----------------------------------------------------------------------- |
+| [ATM.cpp](https://github.com/sinhasandeep2006/OOps-pbl.git/blob/main/ATM.cpp) | Contains the main code for the ATM system, including user and admin functionalities. The program handles user operations such as login, balance inquiry, deposits, withdrawals, and PIN changes. It also contains the admin panel for adding new users and persists user data in a text file. |
 
 </details>
 
 <details closed><summary>output</summary>
 
-| File | Summary |
-| --- | --- |
-| [users.txt](https://github.com/sinhasandeep2006/OOps-pbl.git/blob/main/output/users.txt) | <code>❯ REPLACE-ME</code> |
+| File         | Summary                                                                 |
+| ------------ | ----------------------------------------------------------------------- |
+| [users.txt](https://github.com/sinhasandeep2006/OOps-pbl.git/blob/main/output/users.txt) | Stores the account details (account number, PIN, and balance) of all users. This file is updated every time the program is run to maintain data persistence between sessions. |
 
 </details>
+
 
 ---
 
