@@ -171,9 +171,6 @@ Contributions are welcome! Here are several ways you can contribute:
 
 <details closed>
 
-
-<details closed>
-<summary>Contributor Graph</summary>
 <br>
 <p align="left">
    <a href="https://github.com{/sinhasandeep2006/OOps-pbl.git/}graphs/contributors">
@@ -181,12 +178,6 @@ Contributions are welcome! Here are several ways you can contribute:
    </a>
 </p>
 </details>
-
----
-
-## 🎗 License
-
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
 
 ---
 
